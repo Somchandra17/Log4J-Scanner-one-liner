@@ -1,8 +1,8 @@
-# Command Injection Scanner
+# Log-4J Scanner
 
 ## Overview
 
-The Command Injection Scanner is a Bash script that scans a specified domain for vulnerabilities related to Command Injection. It uses various payloads stored in a file to test for potential vulnerabilities in the target domain.
+The Log-4J Scanner is a Bash script that scans a specified domain for vulnerabilities related to LOG4J. It uses various payloads stored in a file to test for potential vulnerabilities in the target domain.
 
 ## Features
 
